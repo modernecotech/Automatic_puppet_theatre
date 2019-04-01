@@ -6,11 +6,16 @@ Additional motion - stage and curtain control
 
 components of system 
 
-1- pysimplegui User interface for setting up the script
-2- output of controls for arduino - either for preloading on arduino or for remote dispatch of individual controls line by line to arduino from computer. 
+1- A Libreoffice spreadsheet template to write out the script and sequences of the 
+theatre play
+2- pysimplegui User interface for setting up the script
+3- output of controls for ESP32 - for preloading on ESP32
 
-use pyserial for real time control. 
-or use subsystem call to load the file using the arduino ide
+use pyserial for real time control (in the first version this is not used). 
+or use subsystem call to load the file using the arduino ide.
+
+Use UDP multicast to start / pause / rewind the script on all the ESP32s in sync.
+
 Convert the text to International Phonetics using the english-to-ipa library
 then convert the phonetics symbols to motor movements. 
 
@@ -58,7 +63,7 @@ pitch
 volume
 
 
-in the user interface allow up to two parallel threads 
+in the user interface allow up to 5 parallel threads for robots and curtain controls
 
 
 

@@ -3,7 +3,6 @@ A system for translating a puppet show script to a real time control of a comple
 Areas of control -  mouth movement. single servo
 Additional motion - stage and curtain control
 
-
 components of system 
 
 1- A Libreoffice spreadsheet template to write out the script and sequences of the 
@@ -66,7 +65,7 @@ volume
 in the user interface allow up to 5 parallel threads for robots and curtain motor controls
 The user interface for compiling the Puppet script is in a LibreOffice Template for now
 
-![](spreadsheet_interface.png?raw=true "Spreadsheet")
+![Alt text](spreadsheet_interface.png?raw=true "Spreadsheet")
 
 
 

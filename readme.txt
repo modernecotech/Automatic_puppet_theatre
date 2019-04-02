@@ -66,7 +66,7 @@ volume
 in the user interface allow up to 5 parallel threads for robots and curtain controls
 The user interface for compiling the Puppet script is in a LibreOffice Template for now
 
-![Alt text](https://github.com/modernecotech/puppet_robot/spreadsheet_interface.png)
+![Alt text](https://raw.githubusercontent.com/modernecotech/puppet_robot/master/spreadsheet_interface.png)
 
 
 

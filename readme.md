@@ -49,17 +49,25 @@ subtle
 disgusted
 whisper
 
-pause function
 laughing
 crying 
 sneezing
-break
-emphasis
 
-prosody: 
-rate
-pitch
-volume
+
+SSML tags for the TTS:
+
+break
+emphasis 1-3
+pause
+breathing sound
+softly
+timbre
+
+prosody:
+strength - 1-6
+rate 1-5
+pitch 1-5
+volume 1-6
 
 
 in the user interface allow up to 5 parallel threads for robots and curtain motor controls
@@ -67,6 +75,7 @@ The user interface for compiling the Puppet script is in a LibreOffice Template 
 
 ![Alt text](spreadsheet_interface.png?raw=true "Spreadsheet")
 
+![Alt text](spreadsheet_interface2.png?raw=true "Spreadsheet")
 
 
 

@@ -73,12 +73,16 @@ volume 1-6
 in the user interface allow up to 5 parallel threads for robots and curtain motor controls
 The user interface for compiling the Puppet script is in a LibreOffice Template for now
 
+
+
+
+Select the voice for the puppet (from the Amazon list, currently limited to English)
+![Alt text](spreadsheet_interface_2.png?raw=true "Spreadsheet")
+
+
+For each line you can set the prosody, and other SSML nuances for each robot. this is also reflected in the way the mouth moves.
+
 ![Alt text](spreadsheet_interface.png?raw=true "Spreadsheet")
-
-![Alt text](spreadsheet_interface2.png?raw=true "Spreadsheet")
-
-
-
 
 
 

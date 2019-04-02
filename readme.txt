@@ -63,10 +63,10 @@ pitch
 volume
 
 
-in the user interface allow up to 5 parallel threads for robots and curtain controls
+in the user interface allow up to 5 parallel threads for robots and curtain motor controls
 The user interface for compiling the Puppet script is in a LibreOffice Template for now
 
-![Alt text](spreadsheet_interface.png?raw=true "Spreadsheet")
+![B](spreadsheet_interface.png?raw=true "Spreadsheet")
 
 
 

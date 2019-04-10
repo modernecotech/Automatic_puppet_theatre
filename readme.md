@@ -93,9 +93,13 @@ Open the TheatreProcessing.exe or py file.
 Import the CSV file
 
 Then click to process it. The processing does the following: 
+
 1- Converts the text to IPA
+
 2- Upload to the Text to speech system and retrieves the audio file
+
 3- Converts the IPA text to individual motor movements for the robot mouths / stages / curtains
+
 4- uploads the Code to the ESP-32 controllers
 
 

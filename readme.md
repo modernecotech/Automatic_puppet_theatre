@@ -86,6 +86,13 @@ For each line you can set the prosody, and other SSML nuances for each robot. th
 
 
 
+Once the script is ready. Save it as a CSV file.
+
+Open the TheatreProcessing.exe or py file.
+
+Import the CSV file
+![Alt text](ProcessingAndRunning.png?raw=true "Processing")
+
 
 
 
